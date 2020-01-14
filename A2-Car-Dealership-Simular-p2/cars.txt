@@ -1,0 +1,29 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000 Lithium 30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000 Lithium 45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000 Lithium 55
+Tesla	   white  SEDAN   ELECTRIC_MOTOR  9.0  515 AWD 110000 Lithium 35
+Honda      black  SEDAN   GAS_ENGINE      9.3  525 2WD 70000
+Porsche    silver SPORTS  GAS_ENGINE      8.7  470 2WD 180000
+Toyota     white  SEDAN   ELECTRIC_MOTOR  9.4  435 AWD 60000 Lithium 32
+Honda      black  MINIVAN GAS_ENGINE      9.15 455 AWD 26000
+Lexus      silver SEDAN   GAS_ENGINE      8.6  565 AWD 62000
+Infinity   blue   SEDAN   GAS_ENGINE      9.65 420 AWD 21000
+Ford       white  SEDAN   GAS_ENGINE      9.12 480 AWD 15500
+Subaru     red    SPORTS  GAS_ENGINE      8.5  495 2WD 17700
+Volkswagen yellow SEDAN   GAS_ENGINE      8.2  515 2WD 10000
+Porsche    black  SEDAN   GAS_ENGINE      9.65 570 AWD 155000
+Tesla      black  SEDAN   ELECTRIC_MOTOR  9.15 400 AWD 90000 Lithium 33
+Honda      black  SPORTS  GAS_ENGINE      8.35 300 2WD 77000 
+Kia        red    SEDAN   GAS_ENGINE      8.1  430 AWD 24500
+Lexus      silver MINIVAN GAS_ENGINE      9.12 520 AWD 84000
+Infinity   black  SEDAN   GAS_ENGINE      8.85 345 AWD 75000
+Hyundai    blue   SEDAN   GAS_ENGINE      8.4  300 AWD 35000
+BMW        silver SPORTS  GAS_ENGINE      8.45 610 2WD 64000
+Tesla      pink   SEDAN   ELECTRIC_MOTOR  9.9  445 AWD 120000 Lithium 38
+Honda      red    SEDAN   ELECTRIC_MOTOR  8.15 510 AWD 55500 Lithium 35
